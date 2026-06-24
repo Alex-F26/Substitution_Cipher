@@ -21,4 +21,4 @@ This is a simple substitution cipher.
 
 - If you would like to customize this for yourself, it is relatively easy.
 - Simply go through the switch case statements and substitute your values as you wish.
-- For example: for {case 'a'} the {encryptedArray[i] = "1"}, you can change the value "1" to anything you'd like. Just make sure you also change it in the decryption section!
+- For example: for {case 'a'} the {encryptedArray[i] = "1"}, you can change the values 'a' or "1" to anything you'd like. Just make sure you also change it in the decryption section!
