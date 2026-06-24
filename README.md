@@ -19,4 +19,4 @@ This is a simple substitution cipher.
 # Modifications
 
 - If you would like to customize this for yourself, it is relatively easy.
-- Simply go through the switch case statements and substitute your values as you wish  (e.g: )
+- Simply go through the switch case statements and substitute your  values as you wish  (e.g: )
