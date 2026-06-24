@@ -14,9 +14,11 @@ This is a simple substitution cipher.
 - Travel to the directory that your EncDec.java file is in (e.g: cd \Desktop\EncDec.java)
 - Compile the code: javac EncDec.java
 - Run the code: java EncDec
-- Follow the instructions
+- Follow the instructions in the terminal
+- Re-run the code and type 'D' to Decrypt 
 
 # Modifications
 
 - If you would like to customize this for yourself, it is relatively easy.
-- Simply go through the switch case statements and substitute your  values as you wish  (e.g: )
+- Simply go through the switch case statements and substitute your values as you wish.
+- For example: for {case 'a'} the {encryptedArray[i] = "1"}, you can change the value "1" to anything you'd like. Just make sure you also change it in the decryption section!
