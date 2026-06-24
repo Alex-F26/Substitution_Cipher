@@ -12,8 +12,8 @@ This is a simple substitution cipher.
 - Save the EncDec.java file on your device
 - Open any IDE (VScode was used for this)
 - Travel to the directory that your EncDec.java file is in (e.g: cd \Desktop\EncDec.java)
-- Compile the code: javac EncDec.java
-- Run the code: java EncDec
+- Compile the code: type 'javac EncDec.java' into the terminal
+- Run the code: type 'java EncDec' into the terminal
 - Follow the instructions in the terminal
 - Re-run the code and type 'D' to Decrypt 
 
